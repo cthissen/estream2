@@ -4,7 +4,7 @@ What is it?
 ----------------- 
 estream2 calculates evenly spaced streamlines for a given vector field. 
 The improvement over MATLAB's stream2 function is shown :
-![Example 92810-3](https://github.com/cthissen/acf2strain/blob/master/Example.png)
+![Example 92810-3](https://github.com/cthissen/estream/raw/master/figure_estream2.png)
 
 The details of the method can be found in  B. Jobard and W. Lefer, Creating Evenly-Spaced Streamlines
 of Arbitrary Density, Proc. Eighth Eurographics Workshop on Visualization in
