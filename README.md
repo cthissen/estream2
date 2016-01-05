@@ -1,4 +1,4 @@
-# Evenly spaced streamlines (2D) estream2
+# estream2: Evenly spaced streamlines (2D) 
 
 What is it?
 ----------------- 
@@ -33,11 +33,11 @@ Usage
 estream2 can be run with the same input arguments as stream2. For example, with estream2.m on the current path (e.g. cd to the directory containing estream2.m), run the following lines
 ````
 load wind
-sx = 80;
+sx = 80; % set initial seed
 sy = 35;
-stepsize = 0.05;
-maxIter = 10000;
-dSep = 3;
+stepsize = 0.05; 
+maxIter = 10000; % max iterations for a single streamline
+dSep = 3; % separation distance between streamlines
 XY = estream2(x(:,:,5),y(:,:,5),u(:,:,5),v(:,:,5),sx,sy,[stepsize,maxIter,dSep],'plot');
 streamline(XY);
 ````
