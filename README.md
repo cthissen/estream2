@@ -20,13 +20,9 @@ Evenly spaced streamlines better illustrate the structure of the flow field. Com
 <img src="https://github.com/cthissen/estream2/blob/master/fig_stream2.png" alt="alt text" width="400px" height="400px">
 
 
-Requirements
+Requirements & Installation
 ------------------ 
-No additional toolboxes are required to run the program. 
-
-Installation
------------------- 
-No installation is necessary.
+No toolboxes are required to run the program, and no installation is necessary.
 
 Usage
 ------------------ 
@@ -51,8 +47,7 @@ Details of the latest version can be found on the github project page under
 
 Contributors
 ------------------ 
-Christopher Thissen, Yale University. christopher.thissen@yale.edu
-with contributions from Mark Brandon, Yale University
+Christopher Thissen, Yale University. cthissen@gmail.com
 
 
 Feedback
