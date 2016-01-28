@@ -43,7 +43,7 @@ Additional details can be found by typing help estream2 at the command prompt.
 The Latest Version
 ------------------ 
 Details of the latest version can be found on the github project page under 
-  server project page under https://github.com/cthissen/Drex-MATLAB
+  server project page under https://github.com/cthissen/estream2
 
 Contributors
 ------------------ 
