@@ -1,0 +1,11 @@
+
+*.pdf
+*.bib
+*.zip
+calcstreamlines/calcstreamlines_test.m
+
+calcstreamlines/calcstreamlines.m
+
+test_cleavagetrajectory.m
+
+test_evenstreamlines_cjt.m
